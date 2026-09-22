@@ -1,0 +1,2 @@
+# Seaaxz
+Repo for coding
