@@ -26,7 +26,7 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y \
-            git zip unzip autoconf libtool pkg-config \
+            git zip unzip autoconf libtool libltdl-dev pkg-config \
             zlib1g-dev libncurses-dev cmake libffi-dev libssl-dev \
             automake build-essential ccache
 
